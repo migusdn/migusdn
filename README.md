@@ -9,16 +9,6 @@
  
 <br>
 
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://migusdn.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-   
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=migusdn&theme=default)](https://migusdn.tistory.com)
-</div><br>
-
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
