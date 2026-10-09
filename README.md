@@ -12,7 +12,7 @@
 <p align="center">
   <strong>Contact</strong>
   ·
-  <a href="mailto:migusdn@gmail.com">migusdn@gmail.com</a>
+  <a href="mailto:contact@hyunwo.com">contact@hyunwo.com</a>
 </p>
 
 ---
